@@ -1,5 +1,6 @@
 What is your favorite color?
-
+- Purple
 What is your favorite pokemon?
-
+- Bulbasaur
 What is your favorite food?
+- Pasta
