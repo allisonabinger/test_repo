@@ -1,0 +1,5 @@
+What is your favorite color?
+
+What is your favorite pokemon?
+
+What is your favorite food?
